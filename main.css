@@ -15,7 +15,7 @@ body{
     height: 30px;
 }
 
-a{
+a {
     text-decoration: none;
     color: #213053;
 }
@@ -36,7 +36,7 @@ button {
     cursor: pointer;
     box-shadow: 0 16px 36px rgb(52 213 68 / 30%);
     padding: 15px;
-  }
+}
 
 .about__image{
     width: 500px;
@@ -148,17 +148,17 @@ button {
 select {
     appearance: none;
     outline: none;
-  }
+}
 
 input {
     outline: none;
-  }
+}
 
 button:hover {
     box-shadow: 0 16px 36px rgba(246 152 12 / 20%);
     background-color: #f6980c;
     transition: background-color 0.3s ease-in;
-  }
+}
 
 footer{
     padding: 90px 20px 90px 20px;
