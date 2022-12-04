@@ -59,6 +59,7 @@ button {
     right: 0;
 }
 
+
 .about{
     display: flex;
     justify-content: space-around;
@@ -68,7 +69,6 @@ button {
     background: url('img/back.png') no-repeat;
     background-position: center;
     background-size: cover;
-    position: relative;
 }
 
 .about__h1{
